@@ -9,7 +9,7 @@
     "UFABET เว็บตรง",
     "เว็บพนันออนไลน์ ได้เงินจริง"
   ],
-  "repository": "git@github.com:pgfv/ufamcityatom",
+  "repository": "https://github.com/pgfv/ufamcityatom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
